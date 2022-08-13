@@ -2,6 +2,8 @@
 
 Fast Discord Token Checker with proxy support coded in node.js
 
+![DEMO](https://i.ibb.co/f9BqRyw/token-checker.png)
+
 ## Features
 * Proxy Support
 * Detailed Capture
@@ -20,7 +22,7 @@ npm install cli-color
 ```
 4. Paste unchecked tokens in `tokens.txt`
 5. If using proxy, paste proxies in `proxies.txt`
-5. Run `node index.js` in terminal
+5. Run `node checker.js` in terminal
 
 ## Configuration
 Customizable options in `config.json`
